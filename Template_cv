@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>(NAME) - (JOB TITLE)</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header>
+    <h1>(NAME)</h1>
+    <p>Tel: <strong>(PHONE)</strong> | Email: <a href="mailto:(EMAIL)">(EMAIL)</a> | Montréal, QC</p>
+  </header>
+  
+  <section class="summary">
+    <h2>Summary</h2>
+    <p>...</p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills</h2>
+    <ul>
+      <li>...</li>
+    </ul>
+  </section>
+
+  <section class="experience & formations">
+    <h2>Work Experience & Related Formations</h2>
+    <ul>
+      <li>...</li>
+    </ul>
+  </section>
+
+  <section class="languages">
+    <h2>Languages</h2>
+    <ul>
+      <li>English - Fluent</li>
+      <li>...</li>
+    </ul>
+  </section>
+
+  <section class="links">
+    <h2>Links</h2>
+    <p><a href="https://www.linkedin.com/in/(YOUR PROFILE)/">LinkedIn Profile: https://www.linkedin.com/in/(YOUR PROFILE)/</a></p>
+    <li>...</li>
+  </section>
+
+</body>
+</html>
