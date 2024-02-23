@@ -7,7 +7,7 @@ This is a template for creating your CV for job applications and other purposes.
 
 ## Preview
 
-![CV Preview](link_to_preview_image)
+<img src="[https://media.licdn.com/dms/image/D4E12AQEaI9_CXJDw0Q/article-cover_image-shrink_720_1280/0/1708701039561?e=1714003200&v=beta&t=JFQLaOe8uUUnWla2fy1-OTFVObJBWbOUKpOi-qGj9Uo](https://media.licdn.com/dms/image/D4E12AQEaI9_CXJDw0Q/article-cover_image-shrink_720_1280/0/1708701039561?e=1714003200&v=beta&t=JFQLaOe8uUUnWla2fy1-OTFVObJBWbOUKpOi-qGj9Uo)">
 
 ## Usage
 
