@@ -17,6 +17,3 @@ pandoc your_cv.html -o output_cv.pdf
 ```
 
 You can also use your web browser and use `Ctrl + P` to save it as a PDF with the CSS.
-
-
-Replace `link_to_preview_image` with the actual link to the preview image of your CV. This README provides a brief description of your CV template and instructions on how to compile it using Pandoc or a web browser.
